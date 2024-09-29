@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 À Propos de Moi :
 🔭 Je suis actuellement entrain de développer mon portfolio<br>🤝 Je recherche un stage de découverte dans le développement pour courant 2025<br>🌱 J'apprends l'HTML, le CSS, le JavaScript, le Java et MySQL pour le moment<br>⚡ (Fun) Fact : Je me suis cassé l'épaule au premier jour d'un voyage au ski alors que j'étais sur une piste qui n'avait pas de couleur...
 
 
