@@ -1,5 +1,5 @@
 # 💫 À Propos de Moi :
-🔭 Je suis entrain de créer mon propre studio !<br>🤝 Je recherche une alternance dans le développement pour courant 2026<br>🌱 J'apprends l'HTML, le CSS, le JavaScript, le PHP et MySQL pour le moment
+🔭 Je suis entrain de créer mon propre studio !<br>🤝 En alternance chez Gether Agency !<br>🌱 J'apprends l'HTML, le CSS, le JavaScript, le PHP et MySQL pour le moment
 
 
 ## 🌐 Socials:
