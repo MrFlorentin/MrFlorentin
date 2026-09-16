@@ -131,16 +131,16 @@ Some of the things I've worked on or experimented with:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrFlorentin&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFlorentin&theme=transparent&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MrFlorentin&theme=transparent&hide_border=true" 
+    height="170"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFlorentin&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
+
 
 ---
 
