@@ -146,11 +146,7 @@ Some of the things I've worked on or experimented with:
 
 ## 🌐 Find Me
 
-[![Portfolio](https://img.shields.io/badge/Get_The_Flow-florentin--leger.fr-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://florentin-leger.fr)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/florentin-leger/)
-
-[![Twitch](https://img.shields.io/badge/Twitch-Watch-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://twitch.tv/FlowStudio)
+[![Portfolio](https://img.shields.io/badge/Get_The_Flow-florentin--leger.fr-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://florentin-leger.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/florentin-leger/) [![Twitch](https://img.shields.io/badge/Twitch-Watch-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://twitch.tv/FlowStudio)
 
 ---
 
